@@ -1,5 +1,6 @@
-## Hi im max
+## Hi, I’m max
 
+ I’m currently working on GenAI
 <!--
 **mxvlk/mxvlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
